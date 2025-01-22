@@ -1,0 +1,1 @@
+The COMP 2156 DevOps course teaches students about GitBash
