@@ -22,10 +22,15 @@ This repository hosts our **COMP2156 DevOps Assignment**, focusing on:
 ### 1️⃣ Clone the Repository  
 ```bash
 git clone https://github.com/YourUsername/COMP2156_Group1_Assignment.git
+```
 ### 2️⃣ Navigate Into the Project Folder:  
+```bash
 cd COMP2156_Group1_Assignment
+```
 ### 3️⃣ Switch to Your Assigned Branch:  
+```bash
 git checkout STUDENTID-Name
+```
 ### 4️⃣ Install Any Dependencies as Listed in the Project.
 
 ---
@@ -35,6 +40,7 @@ git checkout STUDENTID-Name
 The workflow is defined in:
 ```bash
 📂 .github/workflows/ci.yml
+```
 🔹 Each time a change is pushed, GitHub Actions will automatically run tests and checks.
 
 ---
@@ -44,6 +50,7 @@ The workflow is defined in:
 The workflow is defined in:
 ```bash
 STUDENTID-Name
+```
 🔹 All changes must be merged into the main branch via Pull Requests (PRs).
 
 ---
@@ -52,5 +59,6 @@ STUDENTID-Name
 ```bash
 git checkout -b STUDENTID-Name
 git push -u origin STUDENTID-Name
+```
 
 ---
