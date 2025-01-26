@@ -31,11 +31,11 @@ This repository hosts our **COMP2156 DevOps Assignment**, focusing on:
 ## ⚡ Setup Instructions  
 ### 1️⃣ Clone the Repository  
 ```bash
-git clone https://github.com/YourUsername/COMP2156_Group1_Assignment.git
+git clone https://github.com/YourUsername/COMP2156_Group45_Assignment.git
 ```
 ### 2️⃣ Navigate Into the Project Folder:  
 ```bash
-cd COMP2156_Group1_Assignment
+cd COMP2156_Group45_Assignment
 ```
 ### 3️⃣ Switch to Your Assigned Branch:  
 ```bash
