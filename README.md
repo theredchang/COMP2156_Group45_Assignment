@@ -18,6 +18,16 @@ This repository hosts our **COMP2156 DevOps Assignment**, focusing on:
 
 ---
 
+## ⚙️ Status
+### ███████████████⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯ 50% Complete
+
+### 📋 To-Do List
+**• Setting up CI**
+**• Update remaining file content**
+**• Merge all branches**
+
+---
+
 ## ⚡ Setup Instructions  
 ### 1️⃣ Clone the Repository  
 ```bash
