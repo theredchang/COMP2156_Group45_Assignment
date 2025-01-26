@@ -1,16 +1,16 @@
-# 🎯 COMP2156 Assignment - Group 45 
+# 💻 COMP2156 Assignment - Group 45 
 
 ## 👥 Team Members  
-➤ **Leader:** Ralph Edward Chang (101461871) - [GitHub](https://github.com/theredchang)  
-➤ **Member:** Dylan Calhau (101407907) - [GitHub](https://github.com/Dylanthejugg)  
-➤ **Member:** Michael Slodki (101453409) - [GitHub](https://github.com/metalfingers42)  
-➤ **Member:** Willow Campbell (101540155) - [GitHub](https://github.com/willowcampbell)  
-➤ **Member:** Imran Khan (101434755) - [GitHub](https://github.com)  
-➤ **Member:** Joshua Tontodonati (101464624) - [GitHub](https://github.com/101464624)  
+★ **Leader:** Ralph Edward Chang (101461871) - [GitHub](https://github.com/theredchang)  
+★ **Member:** Dylan Calhau (101407907) - [GitHub](https://github.com/Dylanthejugg)  
+★ **Member:** Michael Slodki (101453409) - [GitHub](https://github.com/metalfingers42)  
+★ **Member:** Willow Campbell (101540155) - [GitHub](https://github.com/willowcampbell)  
+★ **Member:** Imran Khan (101434755) - [GitHub](https://github.com)  
+★ **Member:** Joshua Tontodonati (101464624) - [GitHub](https://github.com/101464624)  
 
 ---
 
-## 📌 Project Overview  
+## ⚙️ Project Overview  
 This repository hosts our **COMP2156 DevOps Assignment**, focusing on:  
 🤝 **Collaborative Git workflows**  
 🌿 **Branching strategies**  
@@ -18,13 +18,13 @@ This repository hosts our **COMP2156 DevOps Assignment**, focusing on:
 
 ---
 
-## ⚙️ Status
+## 📊 Status
 ### ███████████████⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯ 50% Complete
 
 ### 📋 To-Do List
-• **Setting up CI**
-• **Update remaining file content**
-• **Merge all branches**
+➤ **Setting up CI**  
+➤ **Update remaining file content**  
+➤ **Merge all branches**
 
 ---
 
@@ -45,9 +45,8 @@ git checkout STUDENTID-Name
 
 ---
 
-## 🚀 CI/CD Pipeline
-📌 This project utilizes GitHub Actions for continuous integration (CI).
-The workflow is defined in:
+## 🔗 CI/CD Pipeline
+📌 This project utilizes GitHub Actions for continuous integration, found in:
 ```bash
 📂 .github/workflows/ci.yml
 ```
@@ -56,12 +55,11 @@ The workflow is defined in:
 ---
 
 ## 🌳 Branching Strategy
-🔹 Each member has their own branch, named using this format:
-The workflow is defined in:
+📌 Each member has their own branch, named using this format:
 ```bash
 STUDENTID-Name
 ```
-🔹 All changes must be merged into the main branch via Pull Requests (PRs).
+🔹 All changes must be merged into the main branch via pull requests.
 
 ---
 
@@ -70,5 +68,3 @@ STUDENTID-Name
 git checkout -b STUDENTID-Name
 git push -u origin STUDENTID-Name
 ```
-
----
