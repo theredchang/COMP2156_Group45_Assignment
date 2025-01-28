@@ -3,3 +3,4 @@ It bridges the gap between developers and operations teams, enabling faster and
 more reliable software deployment. Key benefits include improved collaboration, faster time to market, 
 and enhanced product quality.
 SDLC uses detailed documentation at every stage
+By breaking the process into phases, SDLC helps identify risks early and mitigate them effectively.
