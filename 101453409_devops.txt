@@ -2,3 +2,4 @@ COMP 3104 is a DevOps course at George Brown College. It covers concepts such as
 cloud computing, and containerization using tools like Jenkins, Docker, and Kubernetes. 
 Students learn to automate workflows and deploy applications efficiently
 Devops focuses on software development
+The skills learned in this coarse will help improve deployment efficiency
