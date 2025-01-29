@@ -1,0 +1,1 @@
+This is an important course since you will be learning about DevOps engineering and using tools like GitHub.
