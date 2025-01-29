@@ -1,1 +1,2 @@
-This is an important course since you will be learning about DevOps engineering and using tools like GitHub.
+This is an important course since you will be learning about DevOps engineering and using tools like GitHub, bash and others.
+It is very important since it gives us the skills needed to succeed like communication
