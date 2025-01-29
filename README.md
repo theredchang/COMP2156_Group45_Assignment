@@ -5,10 +5,15 @@
 ### Group Members
 
 Leader: Ralph Edward Chang (101461871) - GitHub Link: https://github.com/theredchang
+
 Member: Dylan Calhau (101407907) - GitHub Link: https://github.com/Dylanthejugg
+
 Member: Michael Slodki (101453409) - GitHub Link: https://github.com/metalfingers42
+
 Member: Willow Campbell (101540155) - GitHub Link: https://github.com/willowcampbell 
+
 Member: Imran Khan (101434755) - GitHub Link: https://github.com/CrownlessHunter
+
 Member: Joshua Tontodonati (101464624) - GitHub Link: https://github.com/101464624
 
 ### Project Description
