@@ -2,7 +2,7 @@ Ralph's Group 45 Assignment branch
 # COMP2156_Group1_Assignment
 ## Group Members
 - **Leader:** Ralph Edward Chang (101461871) - [GitHub](https://github.com/theredchang)
-- **Member 2:** Dylan Calhau (101407907) - [GitHub](https://github.com/https://github.com/Dylanthejugg)
+- **Member 2:** Dylan Calhau (101407907) - [GitHub](https://github.com/Dylanthejugg)
 - **Member 3:** Imran Khan (101434755) - [GitHub](https://github.com/CrownlessHunter)
 - **Member 4:** Willow Campbell (101540155) - [GitHub](https://github.com/willowcampbell)
 - **Member 5:** Joshua Tontodonati (101464624) - [GitHub](https://github.com/101464624)
