@@ -1,5 +1,5 @@
 Ralph's Group 45 Assignment branch
-# COMP2156_Group1_Assignment
+# COMP2156_Group45_Assignment
 ## Group Members
 - **Leader:** Ralph Edward Chang (101461871) - [GitHub](https://github.com/theredchang)
 - **Member 2:** Dylan Calhau (101407907) - [GitHub](https://github.com/Dylanthejugg)
