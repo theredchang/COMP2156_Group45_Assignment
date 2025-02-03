@@ -1,4 +1,3 @@
-Ralph's Group 45 Assignment branch
 # COMP2156_Group45_Assignment
 ## Group Members
 - **Leader:** Ralph Edward Chang (101461871) - [GitHub](https://github.com/theredchang)
