@@ -1,3 +1,6 @@
+101464624-Joshua
+"Joshua's COMP2156 Assignment Branch" 
+
 # 💻 COMP2156 Assignment - Group 45 
 
 ## 👥 Team Members  
@@ -58,3 +61,4 @@ git checkout STUDENTID-FirstName
 STUDENTID-FirstName
 ```
 🔹 All changes must be merged into the main branch via pull requests.
+main
