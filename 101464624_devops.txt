@@ -1,0 +1,3 @@
+COMP2156 DevOps covers topics, tools, and best practices in the application of DevOps toward better software development and deployment. 
+Major topics concerning version control, Continuous Integration, and Continuous Deployment, Infrastructure as Code, IaC, Docker, Kubernetes in Containerization, and Cloud Computation will be described in this class. 
+Students who learn hands-on by labs and projects will discover how to apply workflow automation; better collaboration for developers and with an operation team to improve the reliability, scalability, and security of software applications.

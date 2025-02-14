@@ -1,3 +1,6 @@
+
+
+
 # 💻 COMP2156 Assignment - Group 45 
 
 ## 👥 Team Members  
@@ -5,7 +8,7 @@
 ★ **Member:** Dylan Calhau (101407907) - [GitHub](https://github.com/Dylanthejugg)  
 ★ **Member:** Michael Slodki (101453409) - [GitHub](https://github.com/metalfingers42)  
 ★ **Member:** Willow Campbell (101540155) - [GitHub](https://github.com/willowcampbell)  
-★ **Member:** Imran Khan (101434755) - [GitHub](https://github.com)  
+★ **Member:** Imran Khan (101434755) - [GitHub](https://github.com/CrownlessHunter)  
 ★ **Member:** Joshua Tontodonati (101464624) - [GitHub](https://github.com/101464624)  
 
 ---
@@ -19,11 +22,9 @@ This repository hosts our **COMP2156 DevOps Assignment**, focusing on:
 ---
 
 ## 📊 Status
-### ███████████████⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯ 50% Complete
+### ██████████████████████⎯ 95% Complete
 
-### 📋 To-Do List
-➤ **Setting up CI**  
-➤ **Update remaining file content**  
+### 📋 To-Do List  
 ➤ **Merge all branches**
 
 ---
@@ -39,7 +40,7 @@ cd COMP2156_Group45_Assignment
 ```
 ### 3️⃣ Switch to Your Assigned Branch:  
 ```bash
-git checkout STUDENTID-Name
+git checkout STUDENTID-FirstName
 ```
 ### 4️⃣ Install Any Dependencies as Listed in the Project.
 
@@ -57,14 +58,7 @@ git checkout STUDENTID-Name
 ## 🌳 Branching Strategy
 📌 Each member has their own branch, named using this format:
 ```bash
-STUDENTID-Name
+STUDENTID-FirstName
 ```
 🔹 All changes must be merged into the main branch via pull requests.
 
----
-
-## 🔌 Steps to Create and Push Your Branch:
-```bash
-git checkout -b STUDENTID-Name
-git push -u origin STUDENTID-Name
-```

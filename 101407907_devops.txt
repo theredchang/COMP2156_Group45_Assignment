@@ -1,0 +1,2 @@
+The COMP2156 DevOps course teaches students essential skills in automating software development
+workflows through CI/CD pipelines.

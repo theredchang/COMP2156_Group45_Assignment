@@ -1,0 +1,4 @@
+Learning DevOps is important because it provides you with the tools to improve software development
+workflows, and deliver high-quality solutions efficiently. Its also important because it provides
+students with essential skills in configuring CI/CD pipelines and exploring tools like Travis CI
+and GitHub Actions for automating software development processes.
