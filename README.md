@@ -25,7 +25,7 @@ This repository hosts our **COMP2156 DevOps Assignment**, focusing on:
 ### ████████████████████████100% Complete
 
 ### 📋 To-Do List  
-➤ **Merge all branches**
+➤ **None since it is done**
 
 ---
 
